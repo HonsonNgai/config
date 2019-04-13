@@ -15,5 +15,5 @@ eureka:
       defaultZone: http://localhost:8761/eureka/
 girl:
   name: laona1
-  age: 12
+  age: 12we
   
